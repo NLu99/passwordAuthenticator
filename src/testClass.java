@@ -1,3 +1,5 @@
+// separate class for testing
+
 import java.io.FileNotFoundException;
 import java.util.Formatter;
 import java.util.Scanner;

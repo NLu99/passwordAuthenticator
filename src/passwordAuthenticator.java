@@ -1,3 +1,4 @@
+// improved logic
 
 public class passwordAuthenticator {
   private final String password;
